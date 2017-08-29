@@ -103,6 +103,31 @@ hr {
     margin: 0 auto 0;
 }
 
+#adres {
+    height: 65%;
+    width: 65%;
+}
+
+#buff {
+    height: 65%;
+    width: 65%;
+}
+
+#frank {
+    height: 65%;
+    width: 65%;
+}
+
+#super {
+    height: 65%;
+    width: 65%;
+}
+
+#punch {
+    height: 65%;
+    width: 65%;
+}
+
 footer {
     background: #fff;
     background: rgba(255,255,255,0.9);
